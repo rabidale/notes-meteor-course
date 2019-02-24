@@ -7,7 +7,7 @@ export default () => {
     <div>
       <PrivateHeader title="Meteor Project Boilerplate"/>
       <div className="page-content">
-        Dashboard pafe content.
+        Dashboard page content.
       </div>
     </div>
   );
