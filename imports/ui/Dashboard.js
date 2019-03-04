@@ -7,7 +7,7 @@ import Editor from './Editor';
 export default () => {
   return (
     <div>
-      <PrivateHeader title="Meteor Project Boilerplate"/>
+      <PrivateHeader title="Notes App"/>
       <div className="page-content">
         <NoteList/>
         <Editor/>
