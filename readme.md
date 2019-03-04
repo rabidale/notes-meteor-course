@@ -1,6 +1,7 @@
 # Notes App Meteor Project
 
-This is a notes application built on Meteor and created for my Udemy course studies.
+This is a notes application built on Meteor and created for my Udemy course studies. Live version of the app is running here on Heroku:
+https://notes-app-rabidale.herokuapp.com/
 
 ## Getting Started
 
